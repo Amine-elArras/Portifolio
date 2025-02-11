@@ -1,1 +1,1 @@
-Welkom bij mijn Portifolio Repositories. Hier zal i mijn bestanden opslaan en mijn code. 
+Welkom bij mijn Portifolio Repositories. Hier zal ik mijn bestanden opslaan en mijn code. 
